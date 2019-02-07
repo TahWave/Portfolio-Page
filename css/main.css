@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
+
+#header {
+    height: 100vh;
+    width: 100%;
+    margin: auto;
+    background: url("../img/wwpr.jpg") no-repeat center;
+    display: table;
+    background-attachment: fixed;
+    background-size: cover;
+}
